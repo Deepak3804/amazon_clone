@@ -1,1 +1,1 @@
-# deepak1_clone
+# amazon_clone
